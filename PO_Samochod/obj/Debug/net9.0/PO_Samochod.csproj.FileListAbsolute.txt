@@ -1,0 +1,14 @@
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Samochod\obj\Debug\net9.0\PO_Samochod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Samochod\obj\Debug\net9.0\PO_Samochod.AssemblyInfoInputs.cache
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Samochod\obj\Debug\net9.0\PO_Samochod.AssemblyInfo.cs
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Samochod\obj\Debug\net9.0\PO_Samochod.csproj.CoreCompileInputs.cache
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Samochod\bin\Debug\net9.0\PO_Samochod.exe
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Samochod\bin\Debug\net9.0\PO_Samochod.deps.json
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Samochod\bin\Debug\net9.0\PO_Samochod.runtimeconfig.json
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Samochod\bin\Debug\net9.0\PO_Samochod.dll
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Samochod\bin\Debug\net9.0\PO_Samochod.pdb
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Samochod\obj\Debug\net9.0\PO_Samochod.dll
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Samochod\obj\Debug\net9.0\refint\PO_Samochod.dll
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Samochod\obj\Debug\net9.0\PO_Samochod.pdb
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Samochod\obj\Debug\net9.0\PO_Samochod.genruntimeconfig.cache
+C:\Users\isiab\Documents\sem 4\GIT projekty\PO_Samochod\obj\Debug\net9.0\ref\PO_Samochod.dll
